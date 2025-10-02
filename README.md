@@ -4,7 +4,9 @@ New best estimates for the UK's mathematical science (MS) workforce and its asso
 
 ## Background
 
-In a [2025 report](https://zenodo.org/records/17117973), the Academy for the Mathematical Sciences derived new best estimates for the UK's mathematical science (MS) workforce and its associated economic contributions in 2024. These new estimates benefit from several methodological refinements to previous work, as well as the availability of newer, more comprehensive data sets. We calculated that 5.11 million people were working in mathematical science occupations in 2024, representing 15% of all UK employment, and that those workers directly contributed £489 billion to the UK economy in 2024, representing 19% of total UK gross value added (GVA). Our new analysis also identified the occupations and industries where the mathematical sciences play particularly significant roles in the UK.
+In a [2025 report](https://zenodo.org/records/17117973), the Academy for the Mathematical Sciences derived new best estimates for the UK's mathematical science (MS) workforce and its associated economic contributions in 2024. These new estimates benefit from several methodological refinements to previous work, as well as the availability of newer, more comprehensive data sets. 
+
+We calculated that 5.11 million people were working in mathematical science occupations in 2024, representing 15% of all UK employment, and that those workers directly contributed £489 billion to the UK economy in 2024, representing 19% of total UK gross value added (GVA). Our new analysis also identified the occupations and industries where the mathematical sciences play particularly significant roles in the UK.
 
 This repository contains a Jupyter notebook with the code used to perform the analysis leading to those estimates.
 
@@ -25,7 +27,7 @@ matplotlib | ❌ | Visualising results (optional) |
 ### Running the code
 Clone or download the repository:
 ```
-git clone https://github.com/vmaguirerajpaul/mathsci-econ-contrib
+git clone https://github.com/vmaguirerajpaul/mathsci-econ-contrib2.0
 ```
 The main analysis is contained in the ```main_analysis.ipynb``` notebook. 
 
